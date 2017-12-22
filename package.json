@@ -1,0 +1,18 @@
+{
+  "name": "nightwatch_cucumber_voorbeeld",
+  "version": "1.0.0",
+  "description": "Een project om te oefenen met testautomatisering in cucumber",
+  "scripts": {
+    "start": "./node_modules/.bin/nightwatch",
+    "test": "./node_modules/.bin/nightwatch"
+  },
+  "author": "Erik Vosseberg",
+  "license": "ISC",
+  "dependencies": {
+    "chromedriver": "^2.34.0",
+    "cucumber": "^3.2.0",
+    "nightwatch": "^0.9.19",
+    "nightwatch-cucumber": "^8.2.12",
+    "nightwatch-html-reporter": "^2.0.4"
+  }
+}
