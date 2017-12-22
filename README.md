@@ -8,7 +8,7 @@ Nightwatch js example project
 3. Extract the archive to a directory where you can easily find it again. 
 4. Navigate to the directory and open a commandline in that directory. 
 5. Type `npm install` and wait for it to finish
-6. Type `npm start` to start the example test. 
+6. Type `npm run test` to start the example test. 
 
 
 ## Optionals
@@ -29,6 +29,9 @@ Visual Studio Code is a free editor made by microsoft that supports ESlint and a
 3. In VS Code go to the extensions menu (Ctrl+Shift+X) and install the ESlint extension. 
 4. Open the nightwatch directory in VS code. 
 
+### Get feature file syntax highlighting in visual studio code
+
+To get gherkin syntax highlighting install the [Cucumber gherkin extension](https://marketplace.visualstudio.com/items?itemName=stevejpurves.cucumber)
 
 # Resources 
 
